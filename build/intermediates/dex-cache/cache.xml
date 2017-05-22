@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\879ce86065b63c1f96e08093254cb1b5e157e573\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9748954770dbc2a1d636785406fd3c202cd4354b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\007921f2842219ea6b5880b8bd15a50fd75a441a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_ca2d2802a54b8a11e7eabf938097a71ca803cfbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\a89c308f32ff86ca472beb57c8ff7d0dc256e95d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_9876ba0e95419d4343963e912145a612941e6e10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\d94ec35702da4cbf1f3fc78adf5eb78fbd74b0ea\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e65ef7794898c660ffbc2fa13aa6af238ae02885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\879ce86065b63c1f96e08093254cb1b5e157e573\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_4f2d2fc489d342524fc083483c9654f7a94d869c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\bc43f62511146c83cc2f5b0677faf8780d1b2212\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_7434677fc4cd4a2f2c370d3fa7ec18f86653f8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\9c261a4dccc078f754d1597e9713891724eb62e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_91b969ad4639ca160c8f283f8026adc5a2f43e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\990c05aa0c89ed0a1a4df2d561c4d384048a0868\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_b96708f33ea20caa2bc7caf7bf8d5988e4a4e6e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\d94ec35702da4cbf1f3fc78adf5eb78fbd74b0ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_30369ebea171f609bdb32a7f877b42bc11de88a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\8b3e4d0680dfafeb720af81d1ab96f5e0b2a2f0a\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_efcea7a4b6add65d156cdae45d81bff0f7dd69bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\01b42b2724b052c9b79e64056c0419087877f402\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a3ed50c9b046f344f0aaa1f07a05905e5ec0c0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\2911f326b3fdf1cd2f74e9b468fd3799a5d7172e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_4439e726f2d518c764eb684d9415767e91aabe5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\8b3e4d0680dfafeb720af81d1ab96f5e0b2a2f0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_99a95ef13cf257edcd5663586663b22b151528c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_05522d6056fce4db0db156c2ff76a907fb52704a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\f15c69c685550de2fd0b551c090be04a0f1df4af\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_21335630db7e9edce3ac23993e862b448707df6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\a89c308f32ff86ca472beb57c8ff7d0dc256e95d\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d2c4bd13d8b90da1e528662969ddc576b8384f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\01b42b2724b052c9b79e64056c0419087877f402\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_ba1b338ef1d39c7dba7382e5dcbcc6b6c42d7db1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudchoud\.android\build-cache\f15c69c685550de2fd0b551c090be04a0f1df4af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes_e98216eb902ea9eb35351c3e77bfcd42553da62d.jar" />
+    </item>
+
+</items>
